@@ -1,0 +1,11 @@
+id = "angelscript"
+name = "AngelScript"
+description = "AngelScript support."
+version = "0.0.1"
+schema_version = 1
+authors = ["Yeruin Paulino"]
+repository = "https://github.com/jeruin-dev/AngelScript.git"
+
+[grammars.angelscript]
+repository = "https://github.com/Relrin/tree-sitter-angelscript"
+commit = "master"
